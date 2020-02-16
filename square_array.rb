@@ -1,4 +1,4 @@
-  numbers = [1,2,3]
+
   
   def square_array(array)
     #'does not call on collect/map or inject'
